@@ -10,5 +10,6 @@ public class Home_CareActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_home__care);
+        setTitle("Homecare");
     }
 }

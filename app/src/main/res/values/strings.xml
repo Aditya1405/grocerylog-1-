@@ -14,7 +14,7 @@
 -->
 <resources>
     <!-- Title for the application. [CHAR LIMIT=12] -->
-    <string name="app_name">Miwok</string>
+    <string name="app_name">Grocery Log</string>
     <string name="category_nonveg">Non-Veg</string>
     <string name="category_veg">Vegetables</string>
     <string name="category_homecare">"Home Care "</string>
@@ -22,4 +22,8 @@
     <string name="category_snacks">Snacks</string>
     <string name="category_masalla">Masalla</string>
     <string name="category_fruits">Fruits</string>
+    <string name="action_delete_all_entries">Delete</string>
+    <string name="category_item">item</string>
+    <string name="item_name">Item name</string>
+    <string name="category">Category</string>
 </resources>
